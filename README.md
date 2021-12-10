@@ -6,3 +6,4 @@ them include- Top Condition filter, Line Chart, Bar Chart, Context Filter. To co
 say that apps which fall under GAMES category play a huge impact on both the producer and
 the consumer.
 I designed a Tableau dashboard analyzing Google Play Store data to visualize assertiveness, complexion and diversity of apps using Tableau and SQL.
+Link for the project : https://public.tableau.com/app/profile/asfee.alam/viz/BA_16068210413190/Dashboardmain
