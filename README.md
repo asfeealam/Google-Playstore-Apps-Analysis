@@ -14,10 +14,10 @@ To assess the composition, pricing, and engagement of apps on the Google Play St
 
 ## Tools & Techniques
 
-- **Tableau** — dashboard development, calculated fields, context filters, top-N filters, dual-axis charts
-- **SQL** — data preparation, cleaning, and validation
+- **Tableau** - dashboard development, calculated fields, context filters, top-N filters, dual-axis charts
+- **SQL** - data preparation, cleaning, and validation
 - **Chart types used:** bubble chart, waterfall chart, pie chart, treemap, scatter plot, dual-axis line chart, context-filtered ranked tables
-- **Excel** — source dataset (`googleplaystore.xlsx`)
+- **Excel** - source dataset (`googleplaystore.xlsx`)
 
 ---
 
@@ -31,16 +31,16 @@ By sheer **count**, the catalogue is dominated by **Family (1,972 apps)** and **
 
 ### 3. Engagement is concentrated in a handful of giants
 Filtering the top apps by review volume shows how top-heavy the market is:
-- **Instagram** — 266.2M reviews (Social)
-- **WhatsApp Messenger** — 207.3M reviews (Communication)
-- **Messenger** — 169.9M reviews (Communication)
-- **Subway Surfers** — 166.3M reviews (Game)
-- **Facebook** — 156.3M reviews (Social)
+- **Instagram** - 266.2M reviews (Social)
+- **WhatsApp Messenger** - 207.3M reviews (Communication)
+- **Messenger** - 169.9M reviews (Communication)
+- **Subway Surfers** - 166.3M reviews (Game)
+- **Facebook** - 156.3M reviews (Social)
 
 A small set of communication and social platforms captures a hugely disproportionate share of total reviews.
 
 ### 4. Installs are dominated by Google's own apps
-Among the **top free apps by installs**, the leaderboard is almost entirely Google-owned — **Google Photos, Google News, and Google Drive each at ~4 billion installs**, with Gmail, Google Play Games, and Chrome close behind. Pre-installed and first-party distribution is a decisive advantage at the very top of the install curve.
+Among the **top free apps by installs**, the leaderboard is almost entirely Google-owned - **Google Photos, Google News, and Google Drive each at ~4 billion installs**, with Gmail, Google Play Games, and Chrome close behind. Pre-installed and first-party distribution is a decisive advantage at the very top of the install curve.
 
 ### 5. Top-rated apps skew toward games and learning
 The highest-rated apps are led by **ROBLOX**, **CBS Sports**, and **Duolingo**, followed by 8 Ball Pool and Candy Crush Saga — a mix of gaming and habit-forming/learning apps that sustain strong ratings.
